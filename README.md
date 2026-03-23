@@ -52,8 +52,8 @@
 ---
 
 ### 🔗 Connect With Me
-- 💼 LinkedIn: (add your link here)
-- 📧 Email: (add your email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/krishna-patel-7b0058280/)
+- 📧 Email: (patelkrishna01062003@gmail.com)
 
 ---
 
