@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Krishna Patel</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | Data Enthusiast</h3>
 
-<!--
-**krishnapatel-dev/krishnapatel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎓 B.Tech in Computer Science & Engineering  
+- 💡 Passionate about **Tech, Design & Problem Solving**  
+- 🌱 Currently exploring **Full Stack Development & Machine Learning**  
+- 🤝 Open to **internships & collaboration opportunities**  
+- ⚡ Fun fact: I got into tech by wondering *"how games are made?"* 😄  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 Languages: **C, C++, Java, Python, JavaScript**
+- 🌐 Web: **HTML, CSS, JS**
+- 🗄️ Database: **SQL**
+- 📊 Data: **Excel, Data Analysis, Visualization**
+- ⚙️ Tools: **Git, Android Studio, Figma**
+
+---
+
+### 🚀 Featured Projects
+- 🧠 **Plant Disease Classifier** – ML-based project  
+- 📊 **Sales Data Analysis** – Real-world data insights  
+- 🌾 **Farmer’s Market App** – Final year project  
+- 🎮 **Platformer Game (Pygame)**  
+- 🔍 **SEO Checker Tool**  
+
+---
+
+### 💼 Experience
+- 📊 Data Science Intern – Arth Consultancy Services  
+- 🤖 AI & Data Analytics Intern – AICTE + Shell + Edunet  
+- 🎨 UI Designer – CodSoft  
+- 📈 Digital Marketing Intern – IIDE  
+
+---
+
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapatel-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapatel-dev&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: (add your link here)
+- 📧 Email: (add your email)
+
+---
+
+⭐️ *"Always learning, always building."*
