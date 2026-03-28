@@ -51,10 +51,10 @@
 <br/>
 
 <a href="https://github.com/krishnapatel-dev/EVENTEASE_STREAMLINED_EVENT_MANAGEMENT_SOLUTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=EVENTEASE_STREAMLINED_EVENT_MANAGEMENT_SOLUTION&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=EVENTEASE_STREAMLINED_EVENT_MANAGEMENT_SOLUTION&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="48%" />
 </a>
 <a href="https://github.com/krishnapatel-dev/Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="48%" />
 </a>
 
 </p>
@@ -74,14 +74,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=krishnapatel-dev&show_icons=true&theme=default&icon_color=f97316&title_color=f97316&text_color=374151&ring_color=f97316" width="33%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapatel-dev&theme=default&hide_border=false&border=e5e7eb&ring=f97316&fire=f97316&currStreakLabel=f97316" width="35%"/>
+  <img src="https://streak-stats.demolab.com/?user=krishnapatel-dev&theme=default&hide_border=false&border=e5e7eb&ring=f97316&fire=f97316&currStreakLabel=f97316" width="35%"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapatel-dev&layout=compact&theme=default&title_color=f97316&text_color=374151&icon_color=f97316" width="25%" />
 
-</p>
-<p align="center">
-  
-  
 </p>
 
 ---
