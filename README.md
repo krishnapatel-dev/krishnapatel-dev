@@ -50,8 +50,8 @@
 
 <br/>
 
-<a href="https://github.com/krishnapatel-dev/EVENTEASE_STREAMLINED_EVENT_MANAGEMENT_SOLUTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=EVENTEASE_STREAMLINED_EVENT_MANAGEMENT_SOLUTION&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="48%" />
+<a href="https://github.com/krishnapatel-dev/EVENTEASE-STREAMLINED-EVENT-MANAGEMENT-SOLUTION">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=EVENTEASE-STREAMLINED-EVENT-MANAGEMENT-SOLUTION&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="48%" />
 </a>
 <a href="https://github.com/krishnapatel-dev/Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="48%" />
