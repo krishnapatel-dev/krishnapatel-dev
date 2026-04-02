@@ -42,10 +42,10 @@
 <p align="center">
 
 <a href="https://github.com/krishnapatel-dev/MERN-LEC-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=MERN-LEC-Project&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishnapatel-dev&repo=MERN-LEC-Project&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
 </a>
 <a href="https://github.com/krishnapatel-dev/Banana_leaf_Deasises_Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=Banana_leaf_Deasises_Detection&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishnapatel-dev&repo=Banana_leaf_Deasises_Detection&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
 </a>
 
 <br/>
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishnapatel-dev&repo=EVENTEASE-STREAMLINED-EVENT-MANAGEMENT-SOLUTION&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
 </a>
 <a href="https://github.com/krishnapatel-dev/Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnapatel-dev&repo=Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishnapatel-dev&repo=Medicinal-Plant-Leaf-Identification-and-Classification-using-CNN&theme=default&title_color=f97316&text_color=374151&icon_color=f97316&border_radius=5" width="47%" />
 </a>
 
 </p>
